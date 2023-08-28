@@ -1,0 +1,12 @@
+name: B
+unaliased_name: A.1
+parent: A
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 188
+  state: E
+- locus: HA1
+  position: 186
+  state: A
+clade: 5a.1

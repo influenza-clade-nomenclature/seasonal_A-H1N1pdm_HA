@@ -1,0 +1,17 @@
+name: 6B.1A.7
+short_name: '7'
+parent: 6B.1A
+representatives: []
+defining_mutations:
+- locus: HA2
+  position: 168
+  state: S
+- locus: HA1
+  position: 301
+  state: T
+- locus: HA2
+  position: 76
+  state: M
+- locus: HA2
+  position: 178
+  state: D

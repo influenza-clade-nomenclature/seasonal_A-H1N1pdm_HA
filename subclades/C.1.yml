@@ -1,0 +1,18 @@
+name: C.1
+unaliased_name: A.2.1
+parent: C
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 185
+  state: T
+- locus: HA1
+  position: 188
+  state: E
+- locus: HA1
+  position: 53
+  state: Q
+- locus: HA1
+  position: 307
+  state: R
+clade: 5a.2a

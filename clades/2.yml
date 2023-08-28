@@ -1,0 +1,17 @@
+name: '2'
+short_name: '2'
+parent: none
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 161
+  state: N
+- locus: HA1
+  position: 185
+  state: T
+- locus: HA1
+  position: 30
+  state: D
+- locus: nuc
+  position: 1099
+  state: A

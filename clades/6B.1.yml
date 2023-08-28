@@ -1,0 +1,11 @@
+name: 6B.1
+short_name: 6B.1
+parent: 6B
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 161
+  state: N
+- locus: HA1
+  position: 215
+  state: T

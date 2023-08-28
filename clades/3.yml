@@ -1,0 +1,14 @@
+name: '3'
+short_name: '3'
+parent: none
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 182
+  state: P
+- locus: nuc
+  position: 1483
+  state: T
+- locus: HA1
+  position: 133
+  state: T

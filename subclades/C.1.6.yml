@@ -1,0 +1,15 @@
+name: C.1.6
+unaliased_name: A.2.1.6
+parent: C.1
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 210
+  state: Q
+- locus: HA1
+  position: 69
+  state: I
+- locus: HA1
+  position: 168
+  state: R
+clade: none

@@ -1,0 +1,12 @@
+name: A
+unaliased_name: A
+parent: none
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 184
+  state: I
+- locus: HA1
+  position: 128
+  state: D
+clade: 6B.1A.5a

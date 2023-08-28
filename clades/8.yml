@@ -1,0 +1,20 @@
+name: '8'
+short_name: '8'
+parent: none
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 185
+  state: T
+- locus: HA2
+  position: 145
+  state: D
+- locus: SigPep
+  position: 14
+  state: T
+- locus: HA2
+  position: 146
+  state: K
+- locus: HA1
+  position: 271
+  state: A

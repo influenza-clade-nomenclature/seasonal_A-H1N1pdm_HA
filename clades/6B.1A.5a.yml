@@ -1,0 +1,11 @@
+name: 6B.1A.5a
+short_name: 5a
+parent: 6B.1A.5
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 184
+  state: I
+- locus: HA1
+  position: 128
+  state: D

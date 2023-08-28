@@ -1,0 +1,14 @@
+name: 6B
+short_name: 6B
+parent: '6'
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 1672
+  state: C
+- locus: HA1
+  position: 255
+  state: T
+- locus: HA1
+  position: 162
+  state: Q
