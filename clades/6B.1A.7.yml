@@ -3,15 +3,15 @@ short_name: '7'
 parent: 6B.1A
 representatives: []
 defining_mutations:
-- locus: HA2
-  position: 168
-  state: S
 - locus: HA1
-  position: 301
+  position: 302
   state: T
 - locus: HA2
-  position: 76
+  position: 77
   state: M
 - locus: HA2
-  position: 178
+  position: 169
+  state: S
+- locus: HA2
+  position: 179
   state: D

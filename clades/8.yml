@@ -4,17 +4,17 @@ parent: none
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 185
+  position: 186
   state: T
-- locus: HA2
-  position: 145
-  state: D
-- locus: SigPep
-  position: 14
-  state: T
+- locus: HA1
+  position: 272
+  state: A
 - locus: HA2
   position: 146
+  state: D
+- locus: HA2
+  position: 147
   state: K
-- locus: HA1
-  position: 271
-  state: A
+- locus: SigPep
+  position: 15
+  state: T

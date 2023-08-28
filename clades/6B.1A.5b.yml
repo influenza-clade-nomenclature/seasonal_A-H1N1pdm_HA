@@ -3,9 +3,9 @@ short_name: 5b
 parent: 6B.1A.5
 representatives: []
 defining_mutations:
-- locus: HA2
-  position: 192
-  state: A
 - locus: HA1
-  position: 234
+  position: 235
   state: D
+- locus: HA2
+  position: 193
+  state: A

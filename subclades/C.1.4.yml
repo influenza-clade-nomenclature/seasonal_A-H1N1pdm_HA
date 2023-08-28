@@ -4,12 +4,12 @@ parent: C.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 84
+  position: 85
   state: P
 - locus: HA1
-  position: 93
+  position: 94
   state: N
 - locus: HA1
-  position: 320
+  position: 321
   state: I
 clade: none

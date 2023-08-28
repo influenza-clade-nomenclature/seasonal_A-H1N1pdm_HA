@@ -4,11 +4,11 @@ parent: none
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 182
-  state: P
-- locus: nuc
-  position: 1483
+  position: 134
   state: T
 - locus: HA1
-  position: 133
+  position: 183
+  state: P
+- locus: nuc
+  position: 1484
   state: T

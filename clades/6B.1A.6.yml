@@ -4,14 +4,14 @@ parent: 6B.1A
 representatives: []
 defining_mutations:
 - locus: nuc
-  position: 535
-  state: G
-- locus: nuc
-  position: 208
+  position: 209
   state: A
 - locus: nuc
-  position: 617
+  position: 536
+  state: G
+- locus: nuc
+  position: 618
   state: C
 - locus: nuc
-  position: 1402
+  position: 1403
   state: T

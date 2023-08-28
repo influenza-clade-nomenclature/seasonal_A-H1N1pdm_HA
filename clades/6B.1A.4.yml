@@ -4,20 +4,20 @@ parent: 6B.1A
 representatives: []
 defining_mutations:
 - locus: nuc
-  position: 617
+  position: 410
+  state: A
+- locus: nuc
+  position: 456
+  state: G
+- locus: nuc
+  position: 493
+  state: A
+- locus: nuc
+  position: 618
   state: C
 - locus: nuc
-  position: 1576
+  position: 1205
   state: G
 - locus: nuc
-  position: 409
-  state: A
-- locus: nuc
-  position: 1204
+  position: 1577
   state: G
-- locus: nuc
-  position: 455
-  state: G
-- locus: nuc
-  position: 492
-  state: A

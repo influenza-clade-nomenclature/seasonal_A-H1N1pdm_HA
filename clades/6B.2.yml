@@ -4,8 +4,8 @@ parent: 6B
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 151
+  position: 152
   state: T
 - locus: HA1
-  position: 172
+  position: 173
   state: I

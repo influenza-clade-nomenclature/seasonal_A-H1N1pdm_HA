@@ -3,15 +3,15 @@ short_name: 6C
 parent: '6'
 representatives: []
 defining_mutations:
-- locus: nuc
-  position: 49
-  state: C
-- locus: HA2
-  position: 171
-  state: K
 - locus: HA1
-  position: 233
+  position: 234
   state: I
 - locus: HA1
-  position: 282
+  position: 283
   state: E
+- locus: HA2
+  position: 172
+  state: K
+- locus: nuc
+  position: 50
+  state: C

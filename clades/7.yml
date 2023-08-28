@@ -3,15 +3,15 @@ short_name: '7'
 parent: none
 representatives: []
 defining_mutations:
-- locus: nuc
-  position: 163
-  state: T
-- locus: nuc
-  position: 1456
-  state: T
 - locus: HA1
-  position: 142
+  position: 143
   state: G
 - locus: nuc
-  position: 1675
+  position: 164
+  state: T
+- locus: nuc
+  position: 1457
+  state: T
+- locus: nuc
+  position: 1676
   state: T
