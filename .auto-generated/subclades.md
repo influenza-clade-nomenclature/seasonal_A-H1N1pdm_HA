@@ -59,6 +59,11 @@
  * defining mutations or substitutions: HA1:70I, HA1:169R, HA1:211Q
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.6)
 
+## C.1.7
+ * parent: [C.1](#C1)
+ * defining mutations or substitutions: HA2:206V, HA1:94N, nuc:905G
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.7)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
