@@ -4,8 +4,8 @@ parent: C.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 152
-  state: I
+  position: 197
+  state: T
 - locus: nuc
   position: 992
   state: A

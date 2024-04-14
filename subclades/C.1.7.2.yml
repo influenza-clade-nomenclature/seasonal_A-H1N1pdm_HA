@@ -1,12 +1,12 @@
-name: C.1.7.1
-unaliased_name: A.2.1.7.1
+name: C.1.7.2
+unaliased_name: A.2.1.7.2
 parent: C.1.7
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 152
-  state: I
+  position: 142
+  state: R
 - locus: SigPep
   position: 8
-  state: M
+  state: I
 clade: none
