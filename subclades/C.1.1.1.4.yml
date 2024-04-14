@@ -1,0 +1,12 @@
+name: C.1.1.1.4
+unaliased_name: A.2.1.1.1.4
+parent: C.1.1.1
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 120
+  state: A
+- locus: nuc
+  position: 344
+  state: T
+clade: none
