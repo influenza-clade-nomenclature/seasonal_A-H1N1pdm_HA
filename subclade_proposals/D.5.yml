@@ -1,0 +1,12 @@
+name: D.5
+unaliased_name: A.2.1.1.1.5
+parent: D
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 45
+  state: K
+- locus: nuc
+  position: 1688
+  state: A
+clade: none
