@@ -8,5 +8,5 @@ defining_mutations:
   state: K
 - locus: nuc
   position: 1688
-  state: A
+  state: T
 clade: none
