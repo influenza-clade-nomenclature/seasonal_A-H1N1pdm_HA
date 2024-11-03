@@ -86,7 +86,7 @@
 
 ## D.1
  * parent: [D](#D)
- * defining mutations or substitutions: HA1:45K
+ * defining mutations or substitutions: HA1:45K, nuc:1688A
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.1)
 
 ## D.2
