@@ -6,4 +6,7 @@ defining_mutations:
 - locus: HA1
   position: 45
   state: K
+- locus: nuc
+  position: 1688
+  state: A
 clade: none

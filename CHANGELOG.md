@@ -1,3 +1,8 @@
+# 2024-11-03
+
+ - make definition of D.1 more specific through addition of constraint at position 1688
+ - add subclade proposal D.5
+
 # 2024-04-15
 
  - aliasing of C.1.1.1 as D
