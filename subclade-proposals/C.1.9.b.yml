@@ -1,0 +1,15 @@
+name: C.1.9.b
+unaliased_name: A.2.1.9.b
+parent: C.1.9
+representatives:
+- isolate: A/Mauritius/P78980/2023
+  source: gisaid
+  accession: EPI2955277
+defining_mutations:
+- locus: HA1
+  position: 38
+  state: D
+- locus: HA2
+  position: 153
+  state: R
+clade: none

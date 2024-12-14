@@ -1,0 +1,15 @@
+name: C.1.9.a
+unaliased_name: A.2.1.9.a
+parent: C.1.9
+representatives:
+- isolate: A/Victoria/932/2024
+  source: gisaid
+  accession: EPI3509906
+defining_mutations:
+- locus: HA1
+  position: 137
+  state: S
+- locus: nuc
+  position: 1673
+  state: T
+clade: none
