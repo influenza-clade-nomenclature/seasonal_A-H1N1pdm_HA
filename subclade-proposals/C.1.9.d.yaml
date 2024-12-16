@@ -1,0 +1,21 @@
+name: C.1.9.d
+unaliased_name: A.2.1.9.d
+parent: C.1.9
+representatives:
+- isolate: A/Vietnam/4030/2024
+  source: gisaid
+  accession: EPI3553253
+defining_mutations:
+- locus: HA1
+  position: 54
+  state: K
+- locus: HA1
+  position: 86
+  state: N
+- locus: HA1
+  position: 125
+  state: D
+- locus: HA1
+  position: 149
+  state: V
+clade: none
