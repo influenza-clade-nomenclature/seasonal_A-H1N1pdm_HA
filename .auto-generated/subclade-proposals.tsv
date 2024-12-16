@@ -58,6 +58,11 @@ C.1.9.b	HA2	153	R
 C.1.9.c	clade	C.1.9	
 C.1.9.c	HA1	83	P
 C.1.9.c	HA2	183	T
+C.1.9.d	clade	C.1.9	
+C.1.9.d	HA1	54	K
+C.1.9.d	HA1	86	N
+C.1.9.d	HA1	125	D
+C.1.9.d	HA1	149	V
 D	clade	C.1.1	
 D	HA1	216	A
 D.1	clade	D	
