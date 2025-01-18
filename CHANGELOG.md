@@ -1,3 +1,11 @@
+# 2025-01-18
+ - Define subclades C.1.9.1-4
+   * [C.1.9.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/C.1.9.1.yml)
+   * [C.1.9.2](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/C.1.9.2.yml)
+   * [C.1.9.3](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/C.1.9.3.yml)
+   * [C.1.9.4](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/C.1.9.4.yml)
+
+
 # 2024-11-03
 
  - make definition of D.1 more specific through addition of constraint at position 1688
