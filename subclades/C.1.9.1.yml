@@ -1,5 +1,5 @@
-name: C.1.9.a
-unaliased_name: A.2.1.9.a
+name: C.1.9.1
+unaliased_name: A.2.1.9.1
 parent: C.1.9
 representatives:
 - isolate: A/Victoria/932/2024
@@ -12,4 +12,7 @@ defining_mutations:
 - locus: nuc
   position: 1673
   state: T
+- locus: nuc
+  position: 959
+  state: C
 clade: none
