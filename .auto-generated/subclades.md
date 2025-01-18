@@ -79,6 +79,30 @@
  * defining mutations or substitutions: HA1:120A, HA1:169Q, nuc:992G
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9)
 
+## C.1.9.1
+ * parent: [C.1.9](#C19)
+ * defining mutations or substitutions: HA1:137S, nuc:1673T, nuc:959C
+ * representative sequence: A/Victoria/932/2024 (EPI3509906) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/932/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9.1)
+
+## C.1.9.2
+ * parent: [C.1.9](#C19)
+ * defining mutations or substitutions: HA1:38D, HA2:153R
+ * representative sequence: A/Mauritius/P78980/2023 (EPI2955277) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Mauritius/P78980/2023)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9.2)
+
+## C.1.9.3
+ * parent: [C.1.9](#C19)
+ * defining mutations or substitutions: HA1:83P, HA2:183T
+ * representative sequence: A/Victoria/140/2024 (EPI3196060) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/140/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9.3)
+
+## C.1.9.4
+ * parent: [C.1.9](#C19)
+ * defining mutations or substitutions: HA1:54K, HA1:86N, HA1:125D, HA1:149V
+ * representative sequence: A/Vietnam/4030/2024 (EPI3553253) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Vietnam/4030/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9.4)
+
 ## D
  * parent: [C.1.1](#C11)
  * defining mutations or substitutions: HA1:216A

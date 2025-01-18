@@ -49,20 +49,21 @@ C.1.9	clade	C.1
 C.1.9	HA1	120	A
 C.1.9	HA1	169	Q
 C.1.9	nuc	992	G
-C.1.9.a	clade	C.1.9	
-C.1.9.a	HA1	137	S
-C.1.9.a	nuc	1673	T
-C.1.9.b	clade	C.1.9	
-C.1.9.b	HA1	38	D
-C.1.9.b	HA2	153	R
-C.1.9.c	clade	C.1.9	
-C.1.9.c	HA1	83	P
-C.1.9.c	HA2	183	T
-C.1.9.d	clade	C.1.9	
-C.1.9.d	HA1	54	K
-C.1.9.d	HA1	86	N
-C.1.9.d	HA1	125	D
-C.1.9.d	HA1	149	V
+C.1.9.1	clade	C.1.9	
+C.1.9.1	HA1	137	S
+C.1.9.1	nuc	1673	T
+C.1.9.1	nuc	959	C
+C.1.9.2	clade	C.1.9	
+C.1.9.2	HA1	38	D
+C.1.9.2	HA2	153	R
+C.1.9.3	clade	C.1.9	
+C.1.9.3	HA1	83	P
+C.1.9.3	HA2	183	T
+C.1.9.4	clade	C.1.9	
+C.1.9.4	HA1	54	K
+C.1.9.4	HA1	86	N
+C.1.9.4	HA1	125	D
+C.1.9.4	HA1	149	V
 D	clade	C.1.1	
 D	HA1	216	A
 D.1	clade	D	
