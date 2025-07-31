@@ -115,7 +115,10 @@
 
 ## D.2
  * parent: [D](#D)
- * defining mutations or substitutions: HA1:113K
+ * defining mutations or substitutions: HA1:113K, HA2:100I
+ * representative sequences:
+   - A/Japan/USAFSAM-14204/2023 (EPI2696565) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Japan/USAFSAM-14204/2023)
+   - A/Vermont/32/2024 (EPI3794548) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Vermont/32/2024)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.2)
 
 ## D.3
