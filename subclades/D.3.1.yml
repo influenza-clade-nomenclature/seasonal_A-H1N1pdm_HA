@@ -17,5 +17,5 @@ defining_mutations:
   state: A
 - locus: HA2
   position: 133
-  state: V
+  state: T
 clade: none
