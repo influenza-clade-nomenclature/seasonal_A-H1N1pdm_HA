@@ -128,7 +128,7 @@
 
 ## D.3.1
  * parent: [D.3](#D3)
- * defining mutations or substitutions: nuc:281A, HA2:193A, HA2:133V
+ * defining mutations or substitutions: nuc:281A, HA2:193A, HA2:133T
  * representative sequences:
    - A/Malaysia/MKAI_CL30633/2025 (EPI4409467) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Malaysia/MKAI_CL30633/2025)
    - A/Victoria/67/2025 (EPI3998052) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/67/2025)
