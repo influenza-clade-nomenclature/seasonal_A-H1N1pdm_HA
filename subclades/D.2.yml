@@ -1,9 +1,18 @@
 name: D.2
 unaliased_name: A.2.1.1.1.2
 parent: D
-representatives: []
+representatives:
+- isolate: A/Japan/USAFSAM-14204/2023
+  source: gisaid
+  accession: EPI2696565
+- isolate: A/Vermont/32/2024
+  source: gisaid
+  accession: EPI3794548
 defining_mutations:
 - locus: HA1
   position: 113
   state: K
+- locus: HA2
+  position: 100
+  state: I
 clade: none
