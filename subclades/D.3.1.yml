@@ -9,9 +9,6 @@ representatives:
     source: gisaid
     accession: EPI3998052
 defining_mutations:
-- locus: nuc
-  position: 281
-  state: A
 - locus: HA2
   position: 193
   state: A
