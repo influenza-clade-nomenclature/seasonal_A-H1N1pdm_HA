@@ -1,6 +1,7 @@
 name: C
 unaliased_name: A.2
 parent: A
+alias_of: A.2
 representatives: []
 defining_mutations:
 - locus: HA1
