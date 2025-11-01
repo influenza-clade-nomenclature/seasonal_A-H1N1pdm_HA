@@ -6,12 +6,14 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:A)
 
 ## B
+ * alias of: A.1
  * parent: [A](#A)
  * defining mutations or substitutions: HA1:187A, HA1:189E
  * clade: 5a.1
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:B)
 
 ## C
+ * alias of: A.2
  * parent: [A](#A)
  * defining mutations or substitutions: HA1:156K, HA1:161I
  * clade: 5a.2
@@ -104,6 +106,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.1.9.4)
 
 ## D
+ * alias of: C.1.1.1
  * parent: [C.1.1](#C11)
  * defining mutations or substitutions: HA1:216A
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D)
@@ -128,7 +131,7 @@
 
 ## D.3.1
  * parent: [D.3](#D3)
- * defining mutations or substitutions: nuc:281A, HA2:193A, HA2:133T
+ * defining mutations or substitutions: HA2:193A, HA2:133T
  * representative sequences:
    - A/Malaysia/MKAI_CL30633/2025 (EPI4409467) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Malaysia/MKAI_CL30633/2025)
    - A/Victoria/67/2025 (EPI3998052) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/67/2025)
