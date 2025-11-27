@@ -1,3 +1,6 @@
+# 2025-11-27
+ - Define subclade [D.3.1.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/D.3.1.1.yml)
+
 # 2025-11-01
 - add aliases to ymls
 

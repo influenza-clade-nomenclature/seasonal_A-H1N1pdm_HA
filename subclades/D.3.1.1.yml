@@ -1,0 +1,27 @@
+name: D.3.1.1
+unaliased_name: A.2.1.1.1.3.1.1
+parent: D.3.1
+representatives:
+  - isolate: A/Victoria/2139/2025
+    source: gisaid
+    accession: EPI4794596
+  - isolate: A/Oman/CPHL_7253935/2025
+    source: gisaid
+    accession: EPI4737961
+  - isolate: A/Sachsen/24/2025
+    source: gisaid
+    accession: EPI4714659
+defining_mutations:
+- locus: HA1
+  position: 113
+  state: K
+- locus: HA1
+  position: 139
+  state: D
+- locus: HA1
+  position: 283
+  state: K
+- locus: HA1
+  position: 302
+  state: E
+clade: none

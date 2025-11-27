@@ -78,6 +78,11 @@ D.3	HA2	45	V
 D.3.1	clade	D.3	
 D.3.1	HA2	193	A
 D.3.1	HA2	133	T
+D.3.1.1	clade	D.3.1	
+D.3.1.1	HA1	113	K
+D.3.1.1	HA1	139	D
+D.3.1.1	HA1	283	K
+D.3.1.1	HA1	302	E
 D.4	clade	D	
 D.4	HA1	120	A
 D.4	nuc	344	T
