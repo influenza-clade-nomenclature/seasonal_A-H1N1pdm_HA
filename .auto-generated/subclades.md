@@ -147,6 +147,15 @@
  * defining mutations or substitutions: HA1:45K, nuc:1688T
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.5)
 
+## E
+ * parent: [D.3.1](#D31)
+ * defining mutations or substitutions: HA1:113K, HA1:139D, HA1:283K, HA1:302E
+ * representative sequences:
+   - A/Victoria/2139/2025 (EPI4794596) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/2139/2025)
+   - A/Oman/CPHL_7253935/2025 (EPI4737961) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Oman/CPHL_7253935/2025)
+   - A/Sachsen/24/2025 (EPI4714659) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Sachsen/24/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
