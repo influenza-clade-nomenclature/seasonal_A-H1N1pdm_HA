@@ -1,0 +1,24 @@
+name: E.1
+unaliased_name: A.2.1.1.1.3.1.1.1
+parent: E
+representatives:
+  - isolate: A/YOKOHAMA/83/2026
+    source: gisaid
+    accession: EPI5746043
+  - isolate: A/Texas/USAFSAM-18360/2026
+    source: gisaid
+    accession: EPI5737720
+  - isolate: A/Singapore/MOH0456/2026
+    source: gisaid
+    accession: EPI5696948
+defining_mutations:
+- locus: HA1
+  position: 155
+  state: E
+- locus: HA1
+  position: 139
+  state: N
+- locus: nuc
+  position: 1379
+  state: T
+clade: none

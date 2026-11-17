@@ -147,6 +147,54 @@
  * defining mutations or substitutions: HA1:45K, nuc:1688T
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.5)
 
+## E
+ * parent: [D.3.1](#D31)
+ * defining mutations or substitutions: HA1:113K, HA1:139D, HA1:283K, HA1:302E
+ * representative sequences:
+   - A/Victoria/2139/2025 (EPI4794596) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Victoria/2139/2025)
+   - A/Oman/CPHL_7253935/2025 (EPI4737961) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Oman/CPHL_7253935/2025)
+   - A/Sachsen/24/2025 (EPI4714659) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Sachsen/24/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E)
+
+## E.1
+ * parent: [E](#E)
+ * defining mutations or substitutions: HA1:155E, HA1:139N, nuc:1379T
+ * representative sequences:
+   - A/YOKOHAMA/83/2026 (EPI5746043) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/YOKOHAMA/83/2026)
+   - A/Texas/USAFSAM-18360/2026 (EPI5737720) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Texas/USAFSAM-18360/2026)
+   - A/Singapore/MOH0456/2026 (EPI5696948) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Singapore/MOH0456/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E.1)
+
+## E.2
+ * parent: [E](#E)
+ * defining mutations or substitutions: HA1:155E, HA1:139N, HA1:54H, nuc:608C
+ * representative sequences:
+   - A/HongKong/444/2026 (EPI5620520) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/HongKong/444/2026)
+   - A/Norway/04860/2026 (EPI5579020) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Norway/04860/2026)
+   - A/South Australia/2621004208/2026 (EPI5561648) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/South%20Australia/2621004208/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E.2)
+
+## E.3
+ * parent: [E](#E)
+ * defining mutations or substitutions: HA1:155E, HA1:139N, HA1:152I, nuc:608C
+ * representative sequences:
+   - A/Iowa/54/2026 (EPI5553839) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Iowa/54/2026)
+   - A/England/01969138/2026 (EPI5458887) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/England/01969138/2026)
+   - A/Netherlands/05142/2026 (EPI5738255) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Netherlands/05142/2026)
+   - A/New York/PV316834/2026 (EPI5721620) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/New%20York/PV316834/2026)
+   - A/TOKYO/EIS15-231/2026 (EPI5744196) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/TOKYO/EIS15-231/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E.3)
+
+## E.4
+ * parent: [E](#E)
+ * defining mutations or substitutions: HA1:155E, HA1:139D, nuc:1187C, nuc:608T
+ * representative sequences:
+   - A/TOKYO/EIS91-113/2026 (EPI5744076) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/TOKYO/EIS91-113/2026)
+   - A/Ontario/PHL202600533/2026 (EPI5739475) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Ontario/PHL202600533/2026)
+   - A/France/ARA-RELAB-HCL026143904601/2026 (EPI5666051) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/France/ARA-RELAB-HCL026143904601/2026)
+   - A/Norway/04864/2026 (EPI5578962) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?c=subclade&s=A/Norway/04864/2026)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:E.4)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|

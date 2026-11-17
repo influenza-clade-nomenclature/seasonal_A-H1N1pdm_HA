@@ -1,0 +1,27 @@
+name: E.2
+unaliased_name: A.2.1.1.1.3.1.1.2
+parent: E
+representatives:
+  - isolate: A/HongKong/444/2026
+    source: gisaid
+    accession: EPI5620520
+  - isolate: A/Norway/04860/2026
+    source: gisaid
+    accession: EPI5579020
+  - isolate: A/South Australia/2621004208/2026
+    source: gisaid
+    accession: EPI5561648
+defining_mutations:
+- locus: HA1
+  position: 155
+  state: E
+- locus: HA1
+  position: 139
+  state: N
+- locus: HA1
+  position: 54
+  state: H
+- locus: nuc
+  position: 608
+  state: C
+clade: none

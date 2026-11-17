@@ -1,0 +1,33 @@
+name: E.3
+unaliased_name: A.2.1.1.1.3.1.1.3
+parent: E
+representatives:
+  - isolate: A/Iowa/54/2026
+    source: gisaid
+    accession: EPI5553839
+  - isolate: A/England/01969138/2026
+    source: gisaid
+    accession: EPI5458887
+  - isolate: A/Netherlands/05142/2026
+    source: gisaid
+    accession: EPI5738255
+  - isolate: A/New York/PV316834/2026
+    source: gisaid
+    accession: EPI5721620
+  - isolate: A/TOKYO/EIS15-231/2026
+    source: gisaid
+    accession: EPI5744196
+defining_mutations:
+- locus: HA1
+  position: 155
+  state: E
+- locus: HA1
+  position: 139
+  state: N
+- locus: HA1
+  position: 152
+  state: I
+- locus: nuc
+  position: 608
+  state: C
+clade: none
