@@ -89,3 +89,22 @@ E	HA1	113	K
 E	HA1	139	D
 E	HA1	283	K
 E	HA1	302	E
+E.1	clade	E	
+E.1	HA1	155	E
+E.1	HA1	139	N
+E.1	nuc	1379	T
+E.2	clade	E	
+E.2	HA1	155	E
+E.2	HA1	139	N
+E.2	HA1	54	H
+E.2	nuc	608	C
+E.3	clade	E	
+E.3	HA1	155	E
+E.3	HA1	139	N
+E.3	HA1	152	I
+E.3	nuc	608	C
+E.4	clade	E	
+E.4	HA1	155	E
+E.4	HA1	139	D
+E.4	nuc	1187	C
+E.4	nuc	608	T

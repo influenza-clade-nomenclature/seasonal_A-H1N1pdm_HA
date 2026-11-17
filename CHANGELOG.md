@@ -1,3 +1,12 @@
+# 2026-11-17
+
+Define subclades E.1 to E.4:
+ - [E.1](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/E.1.yml) with substitutions HA1:139N and 155E
+ - [E.2](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/E.2.yml) with substitutions HA1:139N, 54H and 155E
+ - [E.3](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/E.3.yml) with substitutions HA1:139N, 152I and 155E
+ - [E.4](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/E.4.yml) with substitutions HA1:139D (ancestral) and 155E
+
+
 # 2026-10-23
 
 - alias D.3.1.1 as [E](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_HA/blob/main/subclades/E.yml)
