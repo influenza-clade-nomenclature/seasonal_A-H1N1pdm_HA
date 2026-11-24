@@ -10,3 +10,66 @@ defining_mutations:
   position: 185
   state: I
 clade: 6B.1A.5a
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@9f4cab88:nextclade/config/h1n1pdm/ha/CY121680/founder_sequences.fasta"
+  mutations:
+  - {position: 47, state: 'G'}
+  - {position: 57, state: 'A'}
+  - {position: 164, state: 'T'}
+  - {position: 170, state: 'G'}
+  - {position: 188, state: 'A'}
+  - {position: 293, state: 'A'}
+  - {position: 318, state: 'T'}
+  - {position: 322, state: 'A'}
+  - {position: 360, state: 'A'}
+  - {position: 416, state: 'A'}
+  - {position: 443, state: 'T'}
+  - {position: 456, state: 'G'}
+  - {position: 485, state: 'C'}
+  - {position: 512, state: 'C'}
+  - {position: 515, state: 'G'}
+  - {position: 524, state: 'G'}
+  - {position: 556, state: 'A'}
+  - {position: 558, state: 'C'}
+  - {position: 561, state: 'A'}
+  - {position: 599, state: 'G'}
+  - {position: 618, state: 'C'}
+  - {position: 625, state: 'T'}
+  - {position: 678, state: 'A'}
+  - {position: 718, state: 'C'}
+  - {position: 739, state: 'A'}
+  - {position: 776, state: 'A'}
+  - {position: 837, state: 'A'}
+  - {position: 849, state: 'G'}
+  - {position: 911, state: 'G'}
+  - {position: 918, state: 'G'}
+  - {position: 954, state: 'G'}
+  - {position: 974, state: 'G'}
+  - {position: 986, state: 'G'}
+  - {position: 1032, state: 'G'}
+  - {position: 1061, state: 'C'}
+  - {position: 1076, state: 'C'}
+  - {position: 1163, state: 'T'}
+  - {position: 1178, state: 'A'}
+  - {position: 1190, state: 'T'}
+  - {position: 1191, state: 'A'}
+  - {position: 1250, state: 'G'}
+  - {position: 1271, state: 'T'}
+  - {position: 1290, state: 'C'}
+  - {position: 1356, state: 'C'}
+  - {position: 1364, state: 'C'}
+  - {position: 1382, state: 'T'}
+  - {position: 1406, state: 'G'}
+  - {position: 1415, state: 'A'}
+  - {position: 1423, state: 'A'}
+  - {position: 1428, state: 'T'}
+  - {position: 1487, state: 'C'}
+  - {position: 1493, state: 'A'}
+  - {position: 1511, state: 'G'}
+  - {position: 1566, state: 'A'}
+  - {position: 1577, state: 'A'}
+  - {position: 1601, state: 'C'}
+  - {position: 1631, state: 'T'}
+  - {position: 1673, state: 'C'}
+  - {position: 1738, state: 'T'}
