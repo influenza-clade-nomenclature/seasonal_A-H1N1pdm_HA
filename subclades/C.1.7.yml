@@ -13,3 +13,22 @@ defining_mutations:
   position: 905
   state: G
 clade: none
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@9f4cab88:nextclade/config/h1n1pdm/ha/CY121680/founder_sequences.fasta"
+  mutations:
+  - {position: 179, state: 'A'}
+  - {position: 239, state: 'T'}
+  - {position: 351, state: 'A'}
+  - {position: 614, state: 'C'}
+  - {position: 713, state: 'T'}
+  - {position: 717, state: 'G'}
+  - {position: 866, state: 'C'}
+  - {position: 905, state: 'G'}
+  - {position: 992, state: 'G'}
+  - {position: 1049, state: 'C'}
+  - {position: 1190, state: 'C'}
+  - {position: 1217, state: 'C'}
+  - {position: 1220, state: 'C'}
+  - {position: 1583, state: 'A'}
+  - {position: 1668, state: 'G'}
